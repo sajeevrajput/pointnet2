@@ -1,0 +1,4 @@
+.idea/
+*.pyc
+ignore_dir/
+logs/
